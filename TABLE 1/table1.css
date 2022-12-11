@@ -1,0 +1,12 @@
+.qator-1 {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.qator-1  {
+    border: 3px double black;
+}
+.qator-1 th, tr, td { 
+    border: 1px solid #000;
+    padding: 10px;
+}

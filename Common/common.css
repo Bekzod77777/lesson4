@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: #fff;
+}
+
+
+.ilovalar a {
+    font-size: 25px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.ilovalar a:nth-child(1) {
+    color: orange;
+}
+
+.ilovalar a:nth-child(2) {
+    color: blue;
+}
+
+.ilovalar a:nth-child(3) {
+    color: green;
+}
+
+.ilovalar a:nth-child(4) {
+    color: yellowgreen;
+}
+
+.ilovalar-1 a {
+    padding: 5px;
+    text-decoration: none;
+}
